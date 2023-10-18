@@ -1,0 +1,24 @@
+{
+  "name": "restapi_sql_queries",
+  "version": "1.0.0",
+  "description": "This is my first js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanskar Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node": "^20.7.0",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "postgres": "^3.4.0",
+    "postgresql": "^0.0.1",
+    "sequelize": "^6.33.0",
+    "sequelize-cli": "^6.6.1",
+    "sqlite3": "^5.1.6"
+  }
+}
